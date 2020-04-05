@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JianZhiOffer/JianZhiOffer.iml" filepath="$PROJECT_DIR$/JianZhiOffer/JianZhiOffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetcodeTest/LeetcodeTest.iml" filepath="$PROJECT_DIR$/LeetcodeTest/LeetcodeTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/Lesson01.iml" filepath="$PROJECT_DIR$/Lesson01/Lesson01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/Lesson02.iml" filepath="$PROJECT_DIR$/Lesson02/Lesson02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/Lesson03.iml" filepath="$PROJECT_DIR$/Lesson03/Lesson03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson04/Lesson04.iml" filepath="$PROJECT_DIR$/Lesson04/Lesson04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson05/Lesson05.iml" filepath="$PROJECT_DIR$/Lesson05/Lesson05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson07/Lesson07.iml" filepath="$PROJECT_DIR$/Lesson07/Lesson07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson08/Lesson08.iml" filepath="$PROJECT_DIR$/Lesson08/Lesson08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mianshi/Mianshi.iml" filepath="$PROJECT_DIR$/Mianshi/Mianshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Suanfa_chu.iml" filepath="$PROJECT_DIR$/Suanfa_chu.iml" />
+    </modules>
+  </component>
+</project>
